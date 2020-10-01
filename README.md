@@ -1,4 +1,4 @@
-# ustvnow-iptv-m3u-playlist
+# ustvnow-iptv-m3u-playlist, JavaScript
 
 
 ## About:
@@ -33,4 +33,4 @@ It is possible just to input the username and passwords into the python file and
 ### TL;DR
 
 
-Just run it (double-click the python .py file)
+Just run it (double-click the python (.py) file)
